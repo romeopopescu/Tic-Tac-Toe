@@ -31,6 +31,10 @@ public class Main {
                     }
                     break;
                 case 2:
+                    if (count % 2 == 0 && table.getPosition(s - 1) == s) {
+                        table.setPosition(s);
+                        table.printTable();
+                    }
                     break;
                 case 3:
                     break;
