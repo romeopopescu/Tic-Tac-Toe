@@ -124,6 +124,10 @@ public class Main {
                     break;
             }
             count++;
+            if (count == 9) {
+                System.out.println("Draw!");
+                break;
+            }
         }
 
     }
