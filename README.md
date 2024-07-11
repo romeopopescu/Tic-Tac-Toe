@@ -9,11 +9,23 @@ I learned how to put in practice the skills that I have and make a project from 
 
 ## Usage
 
-  The game is played in the console. When running the project you will get this:
+  The game is played in the console. When running the project you will get this:                                                         
+  
   ![table x](https://github.com/romeopopescu/Tic-Tac-Toe/assets/108995102/9b84ccde-3f82-4417-9f87-24ef9f633a66)
 
   The player needs to write the number of the box he wants to place his X or 0. After the player makes his choice, the table will be printed again and the other player is needed to write his
   next move.
 
   At the end, depending on how the game went, a message will be displayed with the result of the match.
+  
   ![final x](https://github.com/romeopopescu/Tic-Tac-Toe/assets/108995102/f7385dbd-2d93-4941-8dca-15f301e3e36e)
+
+## Code Structure
+  * `Main.java` : The main class containing the game logic and the main method.
+  * `Table.java` : Class that represents the table, containing methods to display the board, and modifying elements.
+
+## Contributing
+  You are welcome to contribute! If you find any issues or have suggestions for improvements, submit a pull request or open an issue.
+
+___
+Enjoy playing!
